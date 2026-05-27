@@ -21,4 +21,4 @@ const app = new Hono<{ Bindings: CloudflareBindings }>()
 ```
 # BUILDS-brand
 
-!(live)[https://3000-iok9qnt6wci0s2kpt6qvl-d0b9e1e2.sandbox.novita.ai/]
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://3000-iok9qnt6wci0s2kpt6qvl-d0b9e1e2.sandbox.novita.ai/)
